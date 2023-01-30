@@ -1,1 +1,2 @@
-![Banner](assets/Banner.png)
+백그라운드 실행 기능 및 기본 베이스 출처 : stopwatch-app
+전체적인 수정 필요함. (ip 입력란/인터페이스 등)
