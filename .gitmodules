@@ -1,0 +1,6 @@
+[submodule "open-e4-client"]
+	path = open-e4-client
+	url = https://github.com/molguin92/open-e4-client
+[submodule "stopwatch-app"]
+	path = stopwatch-app
+	url = https://github.com/rithikjain/stopwatch-app

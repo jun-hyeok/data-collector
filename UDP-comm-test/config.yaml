@@ -1,0 +1,6 @@
+#server.py를 exe로 만들어 배포할 경우 ip 바꾸기 위한 용도
+
+main_ip: "192.168.1.141"
+hololens_ip: "192.168.1.87"
+# main_ip: "127.0.0.1"
+# hololens_ip: "127.0.0.1"
