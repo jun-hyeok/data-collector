@@ -1,0 +1,21 @@
+- ML_for_adaptiveUI
+  - data_orgnize.py, dataprocess.py, check_pkl.py, merge.py : Scripts for data processing
+  - train.py : Scripts for ML training and visualizing results
+- UDP-comm-test
+  - audioserver.py : Server to get audio source from HoloLens
+  - server.py : Intergrated server scripts (Ongoing)
+  - server_test.py : Use for server test and check IP address
+- Widgets
+  - Unity project of widget interface system and data gathering
+  - Use DataGathere.unitypackage when unable to open project with this folder
+- open-e4-client
+  - Get physiologic information from Empatica E4 with using streaming server provided by Empatica (https://developer.empatica.com/)
+    (!Caution! Must use Bluegiga Bluetooth Smart Dongle)
+- smartphonelogger
+  - Android project to get smart phone's used log as background app
+  - (Need of revision)
+- stopwatch-app
+  - Origin project of smartphonelogger, almost same
+- multi_device_log.py
+  - Python script to get keyboard & mouse activity of pc
+  - Get smartphone log from smartphone that connected to same WIFI
