@@ -1,0 +1,15 @@
+IP:
+  host: 192.168.50.72 # 192.168.0.8
+  hololens: 192.168.0.2 # 이것도 변경
+
+PORT:
+  hololens: 8001
+  host: 10024
+  widget: 10025
+  face: 10026
+  imu: 10027
+
+AUDIO:
+  buffer_size: 1024
+  ip: 192.168.50.72 # 192.168.0.8
+  port: 28000
